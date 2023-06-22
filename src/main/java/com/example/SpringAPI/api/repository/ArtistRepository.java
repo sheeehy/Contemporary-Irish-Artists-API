@@ -168,7 +168,7 @@ public class ArtistRepository {
                 13, // id
                 "Ceara Conway", // name
                 46, // age
-                "1977-01-01", // birth
+                "1977-01-05", // birth
                 null, // death
                 "Ceara Conway is an independent Irish contemporary visual artist and vocalist from the Connemara Gaeltacht region in County Galway, in the west of Ireland.", // bio
                 "Visual, Vocalist", // style
