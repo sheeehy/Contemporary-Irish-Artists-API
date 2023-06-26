@@ -91,7 +91,7 @@ public class ArtistRepository {
                 6, // id
                 "Gerard Byrne", // name
                 65, // age
-                "1958-03-29", // birth
+                "1958-04-29", // birth
                 null, // death
                 "Gerard Byrne is an Irish figurative painter. His artwork encompasses various themes from landscapes and architecture painted both in his native Ireland and on foreign travels, through still life to the floral and figurative works. ", // bio
                 "Figurative", // style
