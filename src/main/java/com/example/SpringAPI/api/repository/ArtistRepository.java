@@ -101,7 +101,7 @@ public class ArtistRepository {
         Artist johnByrne  = new Artist(
                 7, // id
                 "John Byrne", // name
-                0, // age
+                null, // age
                 null, // birth
                 null, // death
                 "John Byrne is a contemporary artist born in Belfast, Northern Ireland, he now lives and works in Dublin.", // bio
