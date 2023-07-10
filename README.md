@@ -16,4 +16,22 @@ git clone https://github.com/<sheeehy>/contemporary-irish-artists-api.git
 cd contemporary-irish-artists-api
 ```
 
+To build the project and run all tests, use:  
+```
+mvn clean install
+```  
+To start the server, use:
+```
+mvn spring-boot:run
+```
+Use the following command to run tests or use Postman:  
+```
+mvn test
+```
 
+# API Endpoints  
+GET /artists: Retrieves a list of all artists  
+GET /artists/{id}: Retrieves a single artist by ID  
+POST /artists: Creates a new artist  
+PUT /artists/{id}: Updates an existing artist  
+DELETE /artists/{id}: Deletes an artist  
