@@ -8,10 +8,12 @@ Java Development Kit (JDK) version 8 or higher
 Maven (for dependency management)  
 IDE of your choice (e.g., IntelliJ IDEA, Eclipse)  
 Postman (Testing)    
-Installing  
+
 Clone the repository to your local machine:  
 
+```
 git clone https://github.com/<sheeehy>/contemporary-irish-artists-api.git
 cd contemporary-irish-artists-api
+```
 
 
