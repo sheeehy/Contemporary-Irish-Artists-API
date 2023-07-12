@@ -1,4 +1,4 @@
-# Irish Creatives & Artists API
+# Irish Creatives & Artists API 👨‍🎨
 
 # Overview
 This is a REST API designed to provide a simple and standardized way of accessing and manipulating data related to contemporary Irish artists and creatives. Built with Spring Boot.
