@@ -7,7 +7,7 @@ This is a REST API designed to provide a simple and standardized way of accessin
 Java Development Kit (JDK) version 8 or higher  
 Maven (for dependency management)  
 IDE of your choice (e.g., IntelliJ IDEA, Eclipse)  
-Postman (Testing)    
+Postman    
 
 Clone the repository to your local machine:  
 
