@@ -585,7 +585,7 @@ public class ArtistRepository {
         Artist victorSloan = new Artist(
                 51, // id
                 "Victor Sloan", // name
-                77, // age
+                78, // age
                 "1945-01-01", // birth
                 null, // death
                 "Victor Sloan is a Northern Irish photographer and artist.", // bio
